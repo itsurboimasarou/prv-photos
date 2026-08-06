@@ -1,0 +1,94 @@
+{
+  "subjects": [
+    {
+      "slug": "achievements",
+      "title": "Achievements",
+      "description": "Certificates and things I'm quietly proud of.",
+      "icon": "trophy",
+      "banner": {
+        "text": "These came from the work — the projects behind them live in my portfolio.",
+        "ctaLabel": "View my portfolio →",
+        "ctaHref": "/portfolio"
+      },
+      "albums": [
+        {
+          "slug": "certificates",
+          "title": "Certificates",
+          "year": 2026,
+          "folder": "achievements",
+          "cover": "01.jpg",
+          "driveUrl": ""
+        }
+      ]
+    },
+    {
+      "slug": "cosplays",
+      "title": "Cosplays",
+      "description": "All the cosplay photos I took. Open an album to see the full set, or grab the originals with Download.",
+      "icon": "image",
+      "albums": [
+        {
+          "slug": "hh26",
+          "title": "Hobby Horizon",
+          "folder": "cosplays/hh26",
+          "cover": "01.jpg",
+          "driveUrl": ""
+        },
+        {
+          "slug": "jw20",
+          "title": "Japan Wave",
+          "folder": "cosplays/jw20",
+          "cover": "01.jpg",
+          "driveUrl": "https://photos.app.goo.gl/TwAn8oUa8JCniP9t6"
+        },
+        {
+          "slug": "minna-2026",
+          "title": "Minna Festival",
+          "folder": "cosplays/minna-2026",
+          "cover": "01.jpg",
+          "driveUrl": "https://photos.app.goo.gl/spvgxQV71aosCcP79"
+        },
+        {
+          "slug": "tsuwii",
+          "title": "Tsuwii",
+          "folder": "cosplays/tsuwii",
+          "cover": "01.jpg",
+          "subAlbums": [
+            {
+              "slug": "lumine-dtt",
+              "title": "Lumine (Detective)",
+              "year": 2026,
+              "folder": "cosplays/tsuwii/lumine-dtt",
+              "cover": "01.jpg",
+              "driveUrl": ""
+            },
+            {
+              "slug": "asuka-rb",
+              "title": "Asuka (Rock band)",
+              "year": 2026,
+              "folder": "cosplays/tsuwii/asuka-rb",
+              "cover": "01.jpg",
+              "driveUrl": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "street",
+      "title": "Street & Foods",
+      "description": "Simple as its name — whatever caught my eye on the street, or food I loved eating.",
+      "icon": "image",
+      "albums": [
+        {
+          "slug": "street",
+          "title": "Street & Foods",
+          "year": 2026,
+          "folder": "street",
+          "cover": "01.jpg",
+          "driveUrl": "https://photos.app.goo.gl/Street"
+        }
+      ]
+    }
+  ]
+}

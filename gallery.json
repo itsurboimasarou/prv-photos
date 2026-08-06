@@ -4,21 +4,14 @@
       "slug": "achievements",
       "title": "Achievements",
       "description": "Certificates and things I'm quietly proud of.",
-      "icon": "trophy",
+      "icon": "briefcase",
+      "folder": "achievements",
       "banner": {
         "text": "These came from the work — the projects behind them live in my portfolio.",
         "ctaLabel": "View my portfolio →",
         "ctaHref": "/portfolio"
       },
-      "albums": [
-        {
-          "slug": "certificates",
-          "title": "Certificates",
-          "year": 2026,
-          "folder": "achievements",
-          "cover": "cover.jpg"
-        }
-      ]
+      "albums": []
     },
     {
       "slug": "cosplays",

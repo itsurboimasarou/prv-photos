@@ -16,8 +16,7 @@
           "title": "Certificates",
           "year": 2026,
           "folder": "achievements",
-          "cover": "01.jpg",
-          "driveUrl": ""
+          "cover": "cover.jpg"
         }
       ]
     },
@@ -28,38 +27,113 @@
       "icon": "image",
       "albums": [
         {
-          "slug": "hh26",
+          "slug": "hoyofest",
+          "title": "HoYoFEST",
+          "folder": "cosplays/hoyofest",
+          "cover": "cover.jpg",
+          "subAlbums": [
+            {
+              "slug": "thu",
+              "title": "Thursday",
+              "year": 2026,
+              "folder": "cosplays/hoyofest/2026/thu",
+              "cover": "cover.jpg",
+              "driveUrl": ""
+            },
+            {
+              "slug": "fri",
+              "title": "Friday",
+              "year": 2026,
+              "folder": "cosplays/hoyofest/2026/fri",
+              "cover": "cover.jpg",
+              "driveUrl": ""
+            },
+            {
+              "slug": "sat",
+              "title": "Saturday",
+              "year": 2026,
+              "folder": "cosplays/hoyofest/2026/sat",
+              "cover": "cover.jpg",
+              "driveUrl": ""
+            },
+            {
+              "slug": "sun",
+              "title": "Sunday",
+              "year": 2026,
+              "folder": "cosplays/hoyofest/2026/sun",
+              "cover": "cover.jpg",
+              "driveUrl": "https://drive.google.com/drive/folders/1c1lw3sZZ15rs3qq7NqXzFu7gh--SrHmM?usp=sharing"
+            }
+          ]
+        },
+        {
+          "slug": "hoho",
           "title": "Hobby Horizon",
-          "folder": "cosplays/hh26",
-          "cover": "01.jpg",
-          "driveUrl": ""
+          "folder": "cosplays/hoho",
+          "cover": "cover.jpg",
+          "subAlbums": [
+            {
+              "slug": "singularity",
+              "title": "Singularity",
+              "year": 2026,
+              "folder": "cosplays/hoho/singularity",
+              "cover": "cover.jpg",
+              "driveUrl": ""
+            },
+            {
+              "slug": "???",
+              "title": "???",
+              "year": 2025,
+              "folder": "cosplays/hoho/no-title",
+              "cover": "cover.jpg",
+              "driveUrl": ""
+            }
+          ]
         },
         {
-          "slug": "jw20",
+          "slug": "japan-wave",
           "title": "Japan Wave",
-          "folder": "cosplays/jw20",
-          "cover": "01.jpg",
-          "driveUrl": "https://photos.app.goo.gl/TwAn8oUa8JCniP9t6"
+          "folder": "cosplays/jw",
+          "cover": "cover.jpg",
+          "subAlbums": [
+            {
+              "slug": "20",
+              "title": "20 - 2026",
+              "year": 2026,
+              "folder": "cosplays/jw/20",
+              "cover": "cover.jpg",
+              "driveUrl": ""
+            }
+          ]
         },
         {
-          "slug": "minna-2026",
+          "slug": "minna",
           "title": "Minna Festival",
-          "folder": "cosplays/minna-2026",
-          "cover": "01.jpg",
-          "driveUrl": "https://photos.app.goo.gl/spvgxQV71aosCcP79"
+          "folder": "cosplays/minna",
+          "cover": "cover.jpg",
+          "subAlbums": [
+            {
+              "slug": "3105",
+              "title": "31/05",
+              "year": 2026,
+              "folder": "cosplays/minna/2026/3105",
+              "cover": "cover.jpg",
+              "driveUrl": ""
+            }
+          ]
         },
         {
           "slug": "tsuwii",
           "title": "Tsuwii",
           "folder": "cosplays/tsuwii",
-          "cover": "01.jpg",
+          "cover": "cover.jpg",
           "subAlbums": [
             {
               "slug": "lumine-dtt",
               "title": "Lumine (Detective)",
               "year": 2026,
               "folder": "cosplays/tsuwii/lumine-dtt",
-              "cover": "01.jpg",
+              "cover": "cover.jpg",
               "driveUrl": ""
             },
             {
@@ -67,7 +141,7 @@
               "title": "Asuka (Rock band)",
               "year": 2026,
               "folder": "cosplays/tsuwii/asuka-rb",
-              "cover": "01.jpg",
+              "cover": "cover.jpg",
               "driveUrl": ""
             }
           ]
@@ -85,7 +159,7 @@
           "title": "Street & Foods",
           "year": 2026,
           "folder": "street",
-          "cover": "01.jpg",
+          "cover": "cover.jpg",
           "driveUrl": "https://photos.app.goo.gl/Street"
         }
       ]

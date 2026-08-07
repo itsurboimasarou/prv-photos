@@ -23,14 +23,13 @@
           "slug": "hoyofest",
           "title": "HoYoFEST",
           "folder": "cosplays/hoyofest",
-          "cover": "cover.jpg",
+          "cover": "_cover.jpg",
           "subAlbums": [
             {
               "slug": "thu",
               "title": "Thursday",
               "year": 2026,
               "folder": "cosplays/hoyofest/2026/thu",
-              "cover": "cover.jpg",
               "driveUrl": ""
             },
             {
@@ -38,7 +37,6 @@
               "title": "Friday",
               "year": 2026,
               "folder": "cosplays/hoyofest/2026/fri",
-              "cover": "cover.jpg",
               "driveUrl": ""
             },
             {
@@ -46,7 +44,6 @@
               "title": "Saturday",
               "year": 2026,
               "folder": "cosplays/hoyofest/2026/sat",
-              "cover": "cover.jpg",
               "driveUrl": ""
             },
             {
@@ -54,7 +51,6 @@
               "title": "Sunday",
               "year": 2026,
               "folder": "cosplays/hoyofest/2026/sun",
-              "cover": "cover.jpg",
               "driveUrl": "https://drive.google.com/drive/folders/1c1lw3sZZ15rs3qq7NqXzFu7gh--SrHmM?usp=sharing"
             }
           ]
@@ -63,14 +59,13 @@
           "slug": "hoho",
           "title": "Hobby Horizon",
           "folder": "cosplays/hoho",
-          "cover": "cover.jpg",
+          "cover": "_cover.jpg",
           "subAlbums": [
             {
               "slug": "singularity",
               "title": "Singularity",
               "year": 2026,
               "folder": "cosplays/hoho/singularity",
-              "cover": "cover.jpg",
               "driveUrl": ""
             },
             {
@@ -78,7 +73,6 @@
               "title": "???",
               "year": 2025,
               "folder": "cosplays/hoho/no-title",
-              "cover": "cover.jpg",
               "driveUrl": ""
             }
           ]
@@ -87,14 +81,13 @@
           "slug": "japan-wave",
           "title": "Japan Wave",
           "folder": "cosplays/jw",
-          "cover": "cover.jpg",
+          "cover": "_cover.jpg",
           "subAlbums": [
             {
               "slug": "20",
               "title": "20 - 2026",
               "year": 2026,
               "folder": "cosplays/jw/20",
-              "cover": "cover.jpg",
               "driveUrl": ""
             }
           ]
@@ -103,14 +96,13 @@
           "slug": "minna",
           "title": "Minna Festival",
           "folder": "cosplays/minna",
-          "cover": "cover.jpg",
+          "cover": "_cover.jpg",
           "subAlbums": [
             {
               "slug": "3105",
               "title": "31/05",
               "year": 2026,
               "folder": "cosplays/minna/2026/3105",
-              "cover": "cover.jpg",
               "driveUrl": ""
             }
           ]
@@ -119,14 +111,13 @@
           "slug": "tsuwii",
           "title": "Tsuwii",
           "folder": "cosplays/tsuwii",
-          "cover": "cover.jpg",
+          "cover": "_cover.png",
           "subAlbums": [
             {
               "slug": "lumine-dtt",
               "title": "Lumine (Detective)",
               "year": 2026,
               "folder": "cosplays/tsuwii/lumine-dtt",
-              "cover": "cover.jpg",
               "driveUrl": ""
             },
             {
@@ -134,7 +125,6 @@
               "title": "Asuka (Rock band)",
               "year": 2026,
               "folder": "cosplays/tsuwii/asuka-rb",
-              "cover": "cover.jpg",
               "driveUrl": ""
             }
           ]
@@ -148,11 +138,19 @@
       "icon": "image",
       "albums": [
         {
-          "slug": "street",
-          "title": "Street & Foods",
+          "slug": "photodump-1",
+          "title": "Photodump #1",
           "year": 2026,
-          "folder": "street",
-          "cover": "cover.jpg",
+          "folder": "street/photodump-1",
+          "cover": "_cover.png",
+          "driveUrl": "https://photos.app.goo.gl/Street"
+        },
+        {
+          "slug": "photodump-2",
+          "title": "Photodump #2",
+          "year": 2026,
+          "folder": "street/photodump-2",
+          "cover": "_cover.png",
           "driveUrl": "https://photos.app.goo.gl/Street"
         }
       ]
